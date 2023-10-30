@@ -29,16 +29,16 @@ You can watch our video:
 4. [Other platforms](#other_platforms)
 5. [Get in contact with our team](#contact)
 
-## Veryfi Lens W-9 iOS Example <a name="example"></a>
-This is an example of how to use Veryfi Lens W-9 in your app, you can find the developer documentation [here](https://app.veryfi.com/lens/docs/ios/).
+## Veryfi Lens Bank Statements iOS Example <a name="example"></a>
+This is an example of how to use Veryfi Lens Bank Statements in your app, you can find the developer documentation [here](https://app.veryfi.com/lens/docs/ios/).
 
-## How to add Veryfi Lens W-9 to your project <a name="cocoapods"></a>
+## How to add Veryfi Lens Bank Statements to your project <a name="cocoapods"></a>
 
 Install from our private [Cocoapods](https://hub.veryfi.com/api/settings/keys).
 
-Add in your project Podfile file the Veryfi Lens W-9 iOS SDK dependency:
+Add in your project Podfile file the Veryfi Lens Bank Statements iOS SDK dependency:
 ```ruby
-pod 'VeryfiLens-W9', '2.0.11.1'
+pod 'VeryfiLens-BankStatements', '2.1.21.1'
 ```
 
 ## How to run this project <a name="configuration"></a>
