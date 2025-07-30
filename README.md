@@ -38,7 +38,7 @@ Install from our private [Cocoapods](https://hub.veryfi.com/api/settings/keys).
 
 Add in your project Podfile file the Veryfi Lens Bank Statements iOS SDK dependency:
 ```ruby
-pod 'VeryfiLens-BankStatements', '2.2.28.5'
+pod 'VeryfiLens-BankStatements', '2.2.29.3'
 ```
 
 ## How to run this project <a name="configuration"></a>
