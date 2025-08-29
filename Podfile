@@ -8,5 +8,5 @@ target 'LensBankStatementsDemo' do
   use_frameworks!
 
   # Pods for LensBankStatementsDemo
-  pod 'VeryfiLens-BankStatements', '2.2.33.4'
+  pod 'VeryfiLens-BankStatements', '2.2.34.6'
 end
